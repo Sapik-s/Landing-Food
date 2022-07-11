@@ -195,4 +195,12 @@ window.addEventListener('DOMContentLoaded', function() {
         ".menu .container"
     ).createCard();
     
+    // const names = ['al', 'asda', 12, 'rgb'];
+
+    // const namesCopy = names.filter((name) => {
+    //     return name.length < 5;
+    // });
+
+    // console.log(namesCopy);
+
 });
